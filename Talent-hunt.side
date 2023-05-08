@@ -2,7 +2,7 @@
   "id": "174a0878-1856-4b06-9d89-4bdcb8a25472",
   "version": "2.0",
   "name": "Talent-hunt",
-  "url": "https://talenthuntb2c.b2clogin.com",
+  "url": "//",
   "tests": [{
     "id": "c1ada292-2e01-44f9-af19-ac5c7284a9a4",
     "name": "login",
@@ -47,7 +47,7 @@
         ["xpath=//form[@id='localAccountForm']/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "shrikant.kamtam@ifi.tech"
+      "value": "//"
     }, {
       "id": "8f0c92ce-6a6e-4bd1-8bb2-eb191dd96c0b",
       "comment": "",
@@ -61,7 +61,7 @@
         ["xpath=//form[@id='localAccountForm']/div[3]/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "Kako3222"
+      "value": "//"
     }, {
       "id": "9110d1ea-81c8-4413-8c3c-d3cac918980e",
       "comment": "",
